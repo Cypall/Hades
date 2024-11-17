@@ -1,0 +1,12 @@
+	ShowMessage("\n");
+	ShowMessage(""CL_BG_RED""CL_BT_WHITE"                                                                      "CL_CLL""CL_NORMAL"\n");
+	ShowMessage(""CL_BG_RED""CL_BT_WHITE"                 Hades Development Team presents                   "CL_CLL""CL_NORMAL"\n");
+	ShowMessage(""CL_BG_RED""CL_BT_WHITE"                _   _                 _                           "CL_CLL""CL_NORMAL"\n");
+	ShowMessage(""CL_BG_RED""CL_BT_WHITE"               | | | |               | |                          "CL_CLL""CL_NORMAL"\n");
+	ShowMessage(""CL_BG_RED""CL_BT_WHITE"               | |_| | ___ _ _ __ ___| | ___  ___                 "CL_CLL""CL_NORMAL"\n");
+	ShowMessage(""CL_BG_RED""CL_BT_WHITE"               |  _  |/ _ \ | '__/ __  |/ _ \/ __|                "CL_CLL""CL_NORMAL"\n");
+	ShowMessage(""CL_BG_RED""CL_BT_WHITE"               | | | | (_|  | | | (__| |  __/\__ \                "CL_CLL""CL_NORMAL"\n");
+	ShowMessage(""CL_BG_RED""CL_BT_WHITE"               \_| |_/\___|_|_|  \___,_|\___||___/                "CL_CLL""CL_NORMAL"\n");
+	ShowMessage(""CL_BG_RED""CL_BT_WHITE"                                                                      "CL_CLL""CL_NORMAL"\n");
+	ShowMessage(""CL_BG_RED""CL_BT_WHITE"                      http://www.hades.com                           "CL_CLL""CL_NORMAL"\n");
+	ShowMessage(""CL_BG_RED""CL_BT_WHITE"                                                                      "CL_CLL""CL_NORMAL"\n");
